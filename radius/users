@@ -1,0 +1,2 @@
+DEFAULT Auth-Type := System
+    Fall-Through = 1
